@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sevillana&size=30&pause=1000&color=2B78F7&background=FFFFFF00&width=435&lines=Hello+there%E2%9C%8C%EF%B8%8FMy+name+is+Bowei+Tombri" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from London United Kingdom</h3>
+<h3 align="center">A passionate software developer specializing in Android Development using Java and Kotlin. from London United Kingdom</h3>
 
 <br/>
 
